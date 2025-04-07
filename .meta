@@ -1,7 +1,7 @@
 {
   "projects": {
-    "packages/memory-backend": "git@github.com:artiphishle/memory-backend.git"
-    "packages/memory-frontend": "git@github.com:artiphishle/memory-frontend.git"
+    "packages/memory-backend": "git@github.com:artiphishle/memory-backend.git",
+    "packages/memory-frontend": "git@github.com:artiphishle/memory-frontend.git",
     "packages/memory-docs": "git@github.com:artiphishle/memory-docs.git"
   }
 }
